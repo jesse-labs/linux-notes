@@ -22,7 +22,7 @@ file.txt to create a empty file
 file.txt file2.txt to copy file.txt contents to a new or already existing file called file2.txt
 
 ## mv 
-file2.txt renamed.txt renames a file 
+file2.txt renamed.txt can move and rename a file 
 
 ## rm 
 renamed.txt to remove renamed.txt
