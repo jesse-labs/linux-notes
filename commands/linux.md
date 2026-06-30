@@ -56,3 +56,21 @@ tells the amount of free ram in a human readable format
 
 ## uname -a 
 displays kernel information and architecture 
+
+## ps 
+shows the processes associated with the current terminal session
+
+## ps aux 
+shows all the processe on the system along with much more info
+
+## top 
+process viewer that includes memory and cpu used and much more information
+
+## grep 
+a search command that searches for text patterns in files
+
+## kill
+terminates what process is specified 
+
+## sleep 
+pauses execution for a specified amount of time
